@@ -11,9 +11,9 @@
         @php
             $filters = [
                 '' => 'Latest',
-                'poplular_last_month' => 'Popular Last Month',
+                'popular_last_month' => 'Popular Last Month',
                 'popular_last_6months' => 'Popular Last 6 Month',
-                'highest_rated_last_months' => 'Highest Rated Last Month',
+                'highest_rated_last_month' => 'Highest Rated Last Month',
                 'highest_rated_last_6months' => 'Highest Rated Last 6 Month',
             ];
         @endphp
